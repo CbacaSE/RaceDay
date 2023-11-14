@@ -1,13 +1,10 @@
 # RaceDay - Mobile App
-
-![RaceDay](https://github.com/CbacaSE/RaceDay/assets/102192858/622a721a-69ff-4eab-a7aa-5cf108ad43d3)
-
+![rdlogo](https://github.com/CbacaSE/RaceDay/assets/102192858/08e476c4-a710-460f-bfb0-53f7e738cb9b)
 
 RaceDay is a mobile app that helps you track all of your racing data in one place! This app was something I designed to align with my passion for cars and racing. Having to go through my pictures and find pictures of timeslips and dates was just a bit too time consuming, so that's why I wanted to create this app. It provides a place to store all of your racing data in one spot so the next time you want to share this information with others or even check on previous stats you don't have to spend too long searching for that information.
 
 **Link to project:**
 ![raceday](https://github.com/CbacaSE/RaceDay/assets/102192858/358c2daf-04a0-489b-9639-ffb3ebb12e19)
-
 
 <!-- ![alt tag](http://placecorgi.com/1200/650) -->
 
