@@ -7,10 +7,11 @@ RaceDay is a mobile app that helps you track all of your racing data in one plac
 
 **Project Screenshots:**
 ![raceday](https://github.com/CbacaSE/RaceDay/assets/102192858/358c2daf-04a0-489b-9639-ffb3ebb12e19)
-_work in progress_
+
 <!-- ![alt tag](http://placecorgi.com/1200/650) -->
 
 ## How It's Made:
+_work in progress_
 
 **Tech used:** HTML, CSS, JavaScript, React-Native-Expo
 
