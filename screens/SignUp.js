@@ -1,21 +1,17 @@
 import React from 'react';
-import { 
-    View,
-    Text,
-    StyleSheet,
-} from 'react-native';
+import { View, Text, Button, StyleSheet } from 'react-native';
 import PropTypes from 'prop-types';
 
-const HomeScreen = () => {
+const SignUp = () => {
 return (
     <View style={styles.container}>
-    <Text style={styles.title}>Welcome to the Home Screen!</Text>
-    {/* <Button title="Logout" onPress={() => navigation.goBack()} /> */}
+    <Text style={styles.title}>Welcome to the SIGNUP Screen!</Text>
+    <Button title="SignUp"  />
     </View>
 );
 };
 
-HomeScreen.propTypes = {
+SignUp.propTypes = {
     navigation: PropTypes.object.isRequired,
 };
 
@@ -32,4 +28,4 @@ container: {
     },
 });
 
-export default HomeScreen;
+export default SignUp;

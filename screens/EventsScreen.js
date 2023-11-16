@@ -6,16 +6,16 @@ import {
 } from 'react-native';
 import PropTypes from 'prop-types';
 
-const HomeScreen = () => {
+const EventsScreen = () => {
 return (
     <View style={styles.container}>
-    <Text style={styles.title}>Welcome to the Home Screen!</Text>
+    <Text style={styles.title}>EVENTS</Text>
     {/* <Button title="Logout" onPress={() => navigation.goBack()} /> */}
     </View>
 );
 };
 
-HomeScreen.propTypes = {
+EventsScreen.propTypes = {
     navigation: PropTypes.object.isRequired,
 };
 
@@ -32,4 +32,4 @@ container: {
     },
 });
 
-export default HomeScreen;
+export default EventsScreen;
