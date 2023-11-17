@@ -22,4 +22,4 @@ const AuthNavigator = ({ onLogin }) => {
   );
 };
 
-export default AuthNavigator;
+export default AuthNavigator;  
