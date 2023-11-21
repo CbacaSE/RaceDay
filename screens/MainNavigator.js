@@ -16,9 +16,6 @@ const MainNavigator = () => {
       <Tab.Screen name="Events" component={EventsScreen} />
       <Tab.Screen name="Build" component={BuildScreen} />
       <Tab.Screen name="Profile" component={ProfileScreen} />
-
-
-      {/* Add other tabs if needed */}
     </Tab.Navigator>
   );
 };
